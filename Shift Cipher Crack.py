@@ -1,12 +1,3 @@
-# Author:       Trevor Karl
-# ULID:         C00441253
-# Course:       CMPS 315
-# Assignment:   pa2 - Shift cipher
-#
-# Certification of Authenticity:
-# I certify that this assignment is entirely my own work
-
-
 #Counts the occurrence of each letter in alphabetical order
 def letterCount(file):
 
